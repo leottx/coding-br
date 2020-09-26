@@ -25,7 +25,7 @@ que alguma dificuldade for encontrada.
 |       Nome      | Linguagens  | Descrição                                            |
 |---------------|:------------:|------------------------------------------------------|
 | [Página simples 01](https://imgur.com/YPaa20F) |    HTML    | Uma página simples utilizando apenas HTML.|
-| [Página simples 02](https://imgur.com/a/kF8S2sQ) |    HTML    | Um site com três páginas abordando os elementos  utilizados do HTML.|
+| [Página simples 02](https://imgur.com/a/kF8S2sQ) |    HTML    | Um site com três páginas abordando os elementos dos HTML mais utilizados.|
 | [Caixa de status](https://dribbble.com/shots/6249841-DailyUI-081-Status-Update/attachments) | HTML e CSS | Um input para o usuário postar pensamentos e ideias.|
 | [Notificações](https://dribbble.com/shots/9837444-Toast-Messages-v2/attachments/1870332?mode=media) | HTML e CSS | Um banner fluante para informar o usuário.|
 | [Login](https://dribbble.com/shots/14213751-Welcome-Back/attachments/5853344?mode=media) | HTML e CSS | Uma página para login do usuário no serviço.|
