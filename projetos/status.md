@@ -13,7 +13,6 @@ de compreender a lógica por trás da criação de páginas bonitas e responsiva
 
 - [ ] Todos os botões deverão dar algum tipo de feedback para o usuário de que são clicáveis;
 - [ ] Flexbox;
-- [ ] Media queries;
 
 ## Bônus
 
