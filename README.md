@@ -26,8 +26,8 @@ que alguma dificuldade for encontrada.
 |---------------|:------------:|------------------------------------------------------|:-----------------------:|
 | Página simples 01 |    HTML    | Uma página simples utilizando apenas HTML.| Feito |
 | Página simples 02 |    HTML    | Um site com três páginas com os elementos do HTML mais utilizados.| Feito |
-| Caixa de status | HTML e CSS | Um input para o usuário postar pensamentos e ideias.| Feito |
-| Login | HTML e CSS | Uma página para login do usuário no serviço.| Feito|
+| [Caixa de status](./projetos/status.md) | HTML e CSS | Um input para o usuário postar pensamentos e ideias.| Feito |
+| [Login](./projetos/login.md) | HTML e CSS | Uma página para login do usuário no serviço.| Feito|
 | [Inscrição](./projetos/inscricao.md) | HTML e CSS | Formulário para criar uma conta no site.| Ativo |
 | [Dark mode](./projetos/dark-mode.md) | HTML, CSS e JS | Um menu lateral flexível com dois modos de cores.| Ativo|
 | [Clone UK Gov](./projetos/clone-uk-gov.md) | HTML, CSS e JS | Um clone do site do governo do Reino Unido| Ativo|
