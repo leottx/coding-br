@@ -29,5 +29,5 @@ que alguma dificuldade for encontrada.
 | Caixa de status | HTML e CSS | Um input para o usuário postar pensamentos e ideias.| Feito |
 | Login | HTML e CSS | Uma página para login do usuário no serviço.| Feito|
 | [Inscrição](./projetos/inscricao.md) | HTML e CSS | Formulário para criar uma conta no site.| Ativo |
-| [Dark mode](./projetos/dark-mode.md) | HTML, CSS e JS | Um menu lateral flexível com dois modo de cores.| Ativo|
-| [Clone UK Gov](./projetos/clone-uk-gov.md) | HTML, CSS e JS | Um menu lateral flexível com dois modo de cores.| Ativo|
+| [Dark mode](./projetos/dark-mode.md) | HTML, CSS e JS | Um menu lateral flexível com dois modos de cores.| Ativo|
+| [Clone UK Gov](./projetos/clone-uk-gov.md) | HTML, CSS e JS | Um clone do site do governo do Reino Unido| Ativo|

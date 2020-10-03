@@ -9,7 +9,7 @@ de compreender a lógica por trás da criação de páginas bonitas e responsiva
 
 ## Requisitos
 
-- [ ] Inclua um botão do tipo toogle abaixo do ícone de configurações. Esse botão será o responsável por alternar entre o modo claro e escuro.
+- [ ] Inclua um botão do tipo toggle abaixo do ícone de configurações. Esse botão será o responsável por alternar entre o modo claro e escuro.
 - [ ] Quando um clique ocorrer sobre o logo, o menu deverá fechar ou abrir;
 
 ## Conteúdo auxiliar
