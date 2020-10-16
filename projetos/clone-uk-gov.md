@@ -1,7 +1,7 @@
 # Clone do Site do Governo do Reino Unido
 
 A ideia desse projeto é recriar a homepage do governo do Reino Unido da maneira mais fiel possível.
-O ponto principal é a responsidade. A página deverá se adaptar aos diferentes tamanhos de telas.
+O ponto principal é a responsividade. A página deverá se adaptar aos diferentes tamanhos de telas.
 
 ## Restrições
 
