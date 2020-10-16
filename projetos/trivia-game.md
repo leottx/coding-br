@@ -9,10 +9,10 @@ de compreender a lógica por trás da criação de páginas bonitas e responsiva
 
 ## Requisitos
 
-- [ ] O jogo deverá ter um menu para selecionar um entre três tópicos (HTML, CSS ou Javascript);
-- [ ] Durante o gameplay o jogar deverá escolher uma entre X opções de resposta e clicar em um botão para avançar para questão seguinte.
+- [ ] O jogo deverá conter menu para selecionar um entre três tópicos (HTML, CSS ou Javascript);
+- [ ] Durante o gameplay o jogador deverá escolher uma entre X opções de resposta e clicar em um botão para avançar para questão seguinte.
 - [ ] Apenas exiba o número de acertos ou erros ao final da partida;
-- [ ] Dê a opção do jogador ver quais foram as questões corretas e erradas;
+- [ ] Dê a opção do jogador ver quais foram as questões corretas e incorretas;
 - [ ] Inclua um botão para jogar novamente que retorne para o menu de tópicos.
 
 ## Conteúdo auxiliar
