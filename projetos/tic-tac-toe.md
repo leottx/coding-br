@@ -9,7 +9,7 @@ de compreender a lógica por trás da criação de páginas bonitas e responsiva
 
 ## Requisitos
 
-- [ ] O jogo deverá iniciar com um menu para o jogador escolher qual peça deseja ser, X ou O;
+- [ ] O jogo deverá iniciar com um menu para o jogador um escolher qual peça deseja ser, X ou O;
 - [ ] Trate os dois possíveis cenários para o resultado do jogo, vitória ou empate;
 - [ ] Independe do desfecho da partida, deverá ser exibido um pop-up com o resultado e um botão para jogar novamente;
 - [ ] O jogo deverá manter um score para cada jogador, além de contabilizar quantas partidas empataram;

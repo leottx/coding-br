@@ -30,6 +30,6 @@ que alguma dificuldade for encontrada.
 | [Login](./projetos/login.md) | HTML e CSS | Uma página para login do usuário no serviço.| Feito|
 | [Sign up](./projetos/inscricao.md) | HTML e CSS | Formulário para criar uma conta no site.| Feito |
 | [Dark mode](./projetos/dark-mode.md) | HTML, CSS e JS | Um menu lateral flexível com dois modos de cores.| Feito |
-| [Clone UK Gov](./projetos/clone-uk-gov.md) | HTML, CSS e JS | Um clone do site do governo do Reino Unido| Feito |
-| [Trivia game](./projetos/trivia-game.md) | HTML, CSS e JS | Um jogo de perguntas e respostas sobre programação| Ativo |
-| [Tic tac toe](./projetos/tic-tac-toe.md) | HTML, CSS e JS | O clássico jogo da velha agora digital| Ativo |
+| [Clone UK Gov](./projetos/clone-uk-gov.md) | HTML, CSS e JS | Um clone do site do governo do Reino Unido.| Feito |
+| [Trivia game](./projetos/trivia-game.md) | HTML, CSS e JS | Um jogo de perguntas e respostas sobre programação.| Ativo |
+| [Tic tac toe](./projetos/tic-tac-toe.md) | HTML, CSS e JS | O clássico jogo da velha agora digital.| Ativo |
