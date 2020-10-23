@@ -1,18 +1,18 @@
-# Clone do Site do Governo do Reino Unido
+# UK Government Website Clone
 
-A ideia desse projeto é recriar a homepage do governo do Reino Unido da maneira mais fiel possível.
+A ideia desse projeto é recriar a homepage do site do Governo do Reino Unido da maneira mais fiel possível.
 O ponto principal é a responsividade. A página deverá se adaptar aos diferentes tamanhos de telas.
 
 ## Restrições
 
-- Não use nenhum tipo de framework para criação desse projeto. A intenção é praticar o HTML e CSS puros, afim
+Não use nenhum tipo de framework para criação desse projeto. A intenção é praticar o HTML e CSS puros, afim
 de compreender a lógica por trás da criação de páginas bonitas e responsivas.
 
 ## Requisitos
 
-- [ ] CSS grid;
-- [ ] Flexbox;
-- [ ] Media queries;
+- [ ] Use o CSS grid em alguma parte do site;
+- [ ] Use Flexbox em alguma parte do site;
+- [ ] Use Media Queries;
 
 ## Conteúdo auxiliar
 

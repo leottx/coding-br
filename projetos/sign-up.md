@@ -1,11 +1,11 @@
-# Inscrição
+# Sign up
 
 Crie uma página com um formulário para inscrição em um website.
 Use a referência, porém sinta-se livre para alterar o esquema de cores e fontes.
 
 ## Restrições
 
-- Não use nenhum tipo de framework para criação desse projeto. A intenção é praticar o CSS e HTML puros, afim
+Não use nenhum tipo de framework para criação desse projeto. A intenção é praticar o CSS e HTML puros, afim
 de compreender a lógica por trás da criação de páginas bonitas e responsivas.
 
 ## Requisitos

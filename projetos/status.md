@@ -1,4 +1,4 @@
-# Caixa de Status
+# Status box
 
 Você deverá criar uma caixa de status. Esse tipo de componente é muito comum em redes sociais.
 Use a referência, porém sinta-se livre para alterar o esquema de cores e fontes. Foque em como
@@ -6,7 +6,7 @@ posicionar os elementos.
 
 ## Restrições
 
-- Não use nenhum tipo de framework para criação desse projeto. A intenção é praticar o HTML e CSS puros, afim
+Não use nenhum tipo de framework para criação desse projeto. A intenção é praticar o HTML e CSS puros, afim
 de compreender a lógica por trás da criação de páginas bonitas e responsivas.
 
 ## Requisitos
